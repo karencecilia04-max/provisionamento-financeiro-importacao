@@ -1,0 +1,7 @@
+{
+  "pasta_numerarios": "C:\\caminho\\da\\pasta\\NUMERARIOS DESPACHANTE",
+  "planilha_id": "ID-da-planilha-de-provisionamento",
+  "aba_destino": "Numerários de desembaraço",
+  "credenciais_json": "credenciais_google.json",
+  "prefixos_referencia": ["IMP"]
+}

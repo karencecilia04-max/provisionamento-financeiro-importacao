@@ -1,0 +1,11 @@
+# Credenciais e configuração local nunca entram no repositório
+robo_numerarios/config_numerarios.json
+*.json
+!robo_numerarios/config_numerarios.exemplo.json
+*.xlsx
+previa/saida/
+
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
